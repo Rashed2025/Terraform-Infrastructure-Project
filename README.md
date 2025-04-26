@@ -70,18 +70,6 @@ Each module is self-contained and can be reused or extended independently.
 
 ---
 
-## 🔑 SSH Access
-
-To quickly SSH into your machines:
-
-```bash
-ssh azureuser@<public_ip>
-```
-
-Public IP addresses are shown after `terraform apply`.
-
----
-
 ## 📚 What I Learned From This Project
 
 Through this project, I developed a deep understanding of:
